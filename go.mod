@@ -1,4 +1,4 @@
-module zelic91/static
+module github.com/zelic91/static
 
 go 1.17
 
